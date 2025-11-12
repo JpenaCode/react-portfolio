@@ -1,7 +1,8 @@
-// src/App.jsx
+import './App.css';
 
 const App = () => {
   const skill = { name: 'lesson', comfort: 8, frontEnd: true, backend: true };
+
   const mySkills = [
   {
     name:'JavaScript',
